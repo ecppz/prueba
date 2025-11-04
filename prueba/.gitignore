@@ -1,1 +1,28 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Configuración de Visual Studio
 .vs/
+*.user
+*.suo
+
+# Archivos de paquetes NuGet
+*.nupkg
+*.snupkg
+*.nuspec
+*.psmdcp
+
+# Archivos de publicación
+*.publish.xml
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos de sistema
+Thumbs.db
+.DS_Store
+
+# Archivos de Rider/JetBrains
+.idea/
