@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\admin\\Desktop\\prueba\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {}
+    "C:\\Users\\miese\\Desktop\\Sainagua\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\admin\\Desktop\\prueba\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {
+    "C:\\Users\\miese\\Desktop\\Sainagua\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\admin\\Desktop\\prueba\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
+        "projectUniqueName": "C:\\Users\\miese\\Desktop\\Sainagua\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
         "projectName": "Infrastructure.Identity",
-        "projectPath": "C:\\Users\\admin\\Desktop\\prueba\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
-        "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\admin\\Desktop\\prueba\\prueba\\Infrastructure.Identity\\obj\\",
+        "projectPath": "C:\\Users\\miese\\Desktop\\Sainagua\\prueba\\Infrastructure.Identity\\Infrastructure.Identity.csproj",
+        "packagesPath": "C:\\Users\\miese\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\miese\\Desktop\\Sainagua\\prueba\\Infrastructure.Identity\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\miese\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
